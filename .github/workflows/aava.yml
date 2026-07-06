@@ -21,3 +21,4 @@ jobs:
               "brd":"Testing GitHub Action"
             }
           token: ${{ secrets.AAVA_TOKEN }}
+          base-url: "https://aava-qe.aava.ai"
