@@ -15,10 +15,10 @@ jobs:
         uses: madanvucha12/aava-github-action@main
 
         with:
-          workflow-id: "12803"
+          workflow-id: "471"
           inputs: |
             {
               "brd":"Testing GitHub Action"
             }
           token: ${{ secrets.AAVA_TOKEN }}
-          base-url: "https://aava-qe.aava.ai"
+          base-url: "https://aava-dev-aws.aava.ai"
