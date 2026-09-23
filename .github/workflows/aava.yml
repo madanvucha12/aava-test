@@ -15,7 +15,7 @@ jobs:
         uses: madanvucha12/aava-github-action@main
 
         with:
-          workflow-id: "171"
+          workflow-id: "77"
           inputs: |
             {
               "brd":"Testing GitHub Action"
